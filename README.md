@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Audry
 - 👀 I’m interested in Game development
 - 🌱 I’m currently learning Unity game engine with C# programming language. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Game Jams or Game development projects.
 - 📫 Reach me at audrybarboza10@gmail.com
 
 <!---
